@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Iuri Leno. I am a student of Electrical Engineering. I appreciate studies in the area of Machine Leaning.
+- 👋 Hi, my name is Iuri Leno. Electrical Engineering student. Specializing in the area of Machine Learning.
 
 <!---
 iurileno/iurileno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
